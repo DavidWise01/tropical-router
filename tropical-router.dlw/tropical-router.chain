@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1051
+slug  : tropical-router
+seal  : a660887ddfdfb0ad89cbbc2beefecfaebf05586a3734512d14fa8c5ee15834a9
+prev  : 209ffe1ae0e0500609a7f09ad9146a31b13bacb0947b8f46058af5355ce4e986
+link  : aba82314449a578156e7d766328929323a23144aaca691faf971614969854114
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
